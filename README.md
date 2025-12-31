@@ -1,4 +1,4 @@
-# TZUCHI MUSEUM PANORAMA
+# tzu-chi-museum-panorama
 I used the open-source Panorama framework to design the panoramic tour system for Tzu Chi's "Tracing the Origin of Great Love" museum.  
 
 The system consists of three main files:  
